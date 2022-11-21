@@ -1,0 +1,4 @@
+1. Makan
+2. Minum
+3. Tidur
+4. Ngoding
